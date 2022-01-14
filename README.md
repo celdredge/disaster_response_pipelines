@@ -17,10 +17,10 @@
 
 ### File structure
 
-model_filepath.pkl # saved model 
-ETL Pipeline Preparation.ipynb  # workbook for ETL pipeline
-ML Pipeline Preparation.ipynb   # workbook for ML pipeline
-README.md
+- model_filepath.pkl # saved model 
+- ETL Pipeline Preparation.ipynb  # workbook for ETL pipeline
+- ML Pipeline Preparation.ipynb   # workbook for ML pipeline
+- README.md
 
 app
 - template
