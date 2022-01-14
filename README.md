@@ -34,6 +34,6 @@ data
 - DisasterResponse.db # database to save clean data to
 
 models
-|- train_classifier.py
+- train_classifier.py
 
 - README.md
